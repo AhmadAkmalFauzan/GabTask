@@ -6,7 +6,7 @@ const Testimonials: React.FC = () => {
   const testimonials = [
     {
       name: "Raisa",
-      role: "Siswa",
+      role: "Pelajar",
       content: "GabyTask bantu banget gua buat website portfolio. behh hasilnya bagus banget!",
       avatar: "R"
     },

@@ -164,14 +164,14 @@ const Navbar: React.FC = () => {
               >
                 Testimoni
               </a>
-              <a
-                href="https://www.instagram.com/mm.minimood?utm_source=ig_web_button_share_sheet&igsh=MWlyaDU3eTg0N3cyaQ=="
-                target="_blank"
-                rel="noopener noreferrer"
-                className="block w-full mt-2 bg-indigo-600 text-white px-4 py-2 rounded-md shadow hover:bg-indigo-700 text-center"
-              >
-                Pesan Sekarang
-              </a>
+                <a
+                  href="https://www.instagram.com/mm.minimood?utm_source=ig_web_button_share_sheet&igsh=MWlyaDU3eTg0N3cyaQ=="
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block w-full mt-2 bg-indigo-600 text-white px-4 py-2 rounded-md shadow hover:bg-indigo-700 text-center"
+                >
+                  Pesan Sekarang
+                </a>
             </div>
           </motion.div>
         )}
